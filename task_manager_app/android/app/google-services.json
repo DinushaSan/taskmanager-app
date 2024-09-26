@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024350131309",
+    "project_id": "todoapp-d2070",
+    "storage_bucket": "todoapp-d2070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024350131309:android:5b61148e4c510646541b64",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL913QIdsy6TmRK0ezhX-QOgWxHg-IdUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
